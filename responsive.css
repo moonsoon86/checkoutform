@@ -1,0 +1,7 @@
+@media only screen and (max-width: 768px){
+    .form-photo{
+      margin-left:10%;
+      flex-direction: column-reverse;
+      min-width:400px;
+    }
+}
